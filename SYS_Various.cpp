@@ -1,6 +1,5 @@
 /* Copyleft @Nabe_RMC */
 #define SYS_INCLUDE
-#include "defSYS.h"
 #include "defINT.h"
 
 CINT SobjINT;

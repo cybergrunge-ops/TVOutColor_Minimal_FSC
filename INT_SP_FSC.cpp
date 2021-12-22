@@ -1,5 +1,4 @@
 /* NabeRMC's original FullScreenColor with asm notes and renamed macros by cybergrunge.net 2021 */
-#include "defSYS.h"
 #include "defINT.h"
 #include "defColor.h"
 

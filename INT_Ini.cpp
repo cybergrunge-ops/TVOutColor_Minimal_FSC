@@ -1,6 +1,5 @@
 /* Copyleft @Nabe_RMC ==*/
 #define INT_INCLUDE
-#include "defSYS.h"
 #include "defINT.h"
 
 CINT::CINT(){Ini();} //this is initialize

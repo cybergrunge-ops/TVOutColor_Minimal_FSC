@@ -1,4 +1,3 @@
-#include "defSYS.h"
 #include "defINT.h"
 
 void CINT::FitDelay( unsigned char UBdelay_time )

@@ -1,6 +1,6 @@
 /* full screen color - Copyleft @Nabe_RMC - re-engineered by cybergrunge.net */
-#include "defSYS.h"
 #include "defINT.h"
+
 CSYS objSYS;
 void Ini_PT_FSC(void);
 void Set_Color( unsigned char );
