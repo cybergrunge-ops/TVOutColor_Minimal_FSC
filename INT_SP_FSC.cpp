@@ -1,6 +1,5 @@
 /* NabeRMC's original FullScreenColor with asm notes and renamed macros by cybergrunge.net 2021 */
 #include "defINT.h"
-#include "defColor.h"
 
 //reminder: unsigned char is 8 bits of data like this: 0000 0000 , it represents data between 0 and 255
 void CINT::SP_FSC( unsigned char Mode, unsigned char Sig0, unsigned char Sig90, unsigned char Sig180, unsigned char Sig270 ){ 
